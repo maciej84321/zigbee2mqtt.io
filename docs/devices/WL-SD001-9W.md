@@ -23,7 +23,9 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+## Notes
+### Pairing
+Turn on, wait 1-2 seconds, turn off, wait 1-2 seconds, repeat 10 times.  Light will flash to indicate that it is in pairing mode.
 
 <!-- Notes END: Do not edit below this line -->
 
